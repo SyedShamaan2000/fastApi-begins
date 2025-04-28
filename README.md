@@ -1,1 +1,1 @@
-# Let's learn fastApi
+# Let's learn fastApi - it uses python
